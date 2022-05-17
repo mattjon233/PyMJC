@@ -6,9 +6,9 @@ Este repositório tem como objetivo fazer as entregas do projeto da disciplina d
 
 Os seguintes alunos (equipe XXXXX) são responsáveis pelo projeto: 
 
--  Mátricula: XXXX | Aluno: XXXXX 
--  Mátricula: XXXX | Aluno: XXXXX
--  Mátricula: XXXX | Aluno: XXXXX
+-  Mátricula: 390033 | Aluno: GEORGE MATEUS DE AZEVEDO AMORIM 
+-  Mátricula: 434055 | Aluno: MATTHEWS HARNIFER JONES SEVERINO VASCONCELOS
+-  Mátricula: 415271 | Aluno: RAIF ZEIDAM DE MEDEIROS
 
 # Método de Avaliação
 
