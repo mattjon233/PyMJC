@@ -48,9 +48,9 @@ class MJParser(Parser):
     @_('CLASS Identifier SuperOpt LEFTBRACE VarDeclarationStar MethodDeclarationStar RIGHTBRACE')
     def ClassDeclaration(self, p):
         if(type(p.SuperOpt)!=Identifier):
-            ClassDeclExtends(p.Identifier,p.SuperOpt,p.VarDeclarationStar,p.MethodDeclarationStar)
+            return ClassDeclExtends(p.Identifier,p.SuperOpt,p.VarDeclarationStar,p.MethodDeclarationStar)
         else:
-            ClassDeclSimple(p.Identifier,p.VarDeclarationStar,p.MethodDeclarationStar)
+            return ClassDeclSimple(p.Identifier,p.VarDeclarationStar,p.MethodDeclarationStar)
 
     @_('Empty')
     def SuperOpt(self, p):
