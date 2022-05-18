@@ -41,7 +41,7 @@
 
 3. No caso de parcialmente concluída, o que não foi concluído?
 
-    > Escreva sua resposta aqui
+    > Não conseguimos identificar e solucionar um erro.
 
 4. O programa passa nos testes automatizados?
     
@@ -49,7 +49,7 @@
 
 5. Algum erro de execução foi encontrado para alguma das entradas? Quais?
     
-    > Escreva sua resposta aqui
+    > Foi encontrado um erro chamado 'Attribute Error' em visitor.py. Foi feito 46 testes. 
 
 6. Quais as dificuldades encontradas para realização da etapa do projeto?
     
@@ -57,7 +57,7 @@
 
 7. Qual a participação de cada membro da equipe na etapa de execução?
     
-    > O trabalho foi dividido em três partes para cada um fazer. Raif ficou com a construção da árvore sintática à partir do parser, Matt ficou com a implementação do FillSymbolTableVisitor e George ficou com a implementação do TypeCheckingVisitor. Debatemos sobre o trabalho através do Discord e do Telegram.
+    > O trabalho foi dividido em três partes para cada um fazer. Raif ficou com a construção da árvore sintática à partir do parser, Matt ficou com a implementação do FillSymbolTableVisitor e eu fiquei com a implementação do TypeCheckingVisitor. Debatemos sobre o trabalho através do Discord e do Telegram.
 
 
 # 3º Relatóio: Etapa AI-c (Tradução para o Código Intermediário)
