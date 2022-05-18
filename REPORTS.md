@@ -33,11 +33,11 @@
 
 1. Qual é o nome do relator?
 
-    > Escreva sua resposta aqui
+    > George Mateus de Azevedo Amorim
 
 2. A etapa foi completamente ou parcialmente concluída?
 
-    > Escreva sua resposta aqui
+    > Parcialmente concluída.
 
 3. No caso de parcialmente concluída, o que não foi concluído?
 
@@ -45,7 +45,7 @@
 
 4. O programa passa nos testes automatizados?
     
-    > Escreva sua resposta aqui
+    > Não passou nos testes automatizados.
 
 5. Algum erro de execução foi encontrado para alguma das entradas? Quais?
     
@@ -53,11 +53,11 @@
 
 6. Quais as dificuldades encontradas para realização da etapa do projeto?
     
-    > Escreva sua resposta aqui
+    > As dificuldades encontradas foram no entendimento tanto teórico como prático do Visitor, principalmente nas partes de FillSymbolTableVisitor e TypeCheckingVisitor. E também em como fazer o parser utilizar os métodos da AST para criar a árvore sintática.
 
 7. Qual a participação de cada membro da equipe na etapa de execução?
     
-    > Escreva sua resposta aqui
+    > O trabalho foi dividido em três partes para cada um fazer. Raif ficou com a construção da árvore sintática à partir do parser, Matt ficou com a implementação do FillSymbolTableVisitor e George ficou com a implementação do TypeCheckingVisitor. Debatemos sobre o trabalho através do Discord e do Telegram.
 
 
 # 3º Relatóio: Etapa AI-c (Tradução para o Código Intermediário)
